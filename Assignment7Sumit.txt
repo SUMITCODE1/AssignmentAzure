@@ -1,0 +1,61 @@
+Assignment6:-OUTPUT:-
+Hello, f! Count to 1
+Hello, fr! Count to 2
+Hello, fre! Count to 3
+Hello, fred! Count to 4
+Hello, fred ! Count to 5
+Hello, fred s! Count to 6
+Hello, fred sm! Count to 7
+Hello, fred smi! Count to 8
+Hello, fred smit! Count to 9
+Hello, fred smith! Count to 10
+
+C:\Users\mindc1may166\source\repos\Soultion\Soultion\bin\Debug\netcoreapp3.1\Soultion.exe (process 20028) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+Input:-
+using System;
+
+namespace Soultion
+{
+    class Program
+
+    {
+
+        static void Main(string[] args)
+
+        {
+
+            char[] letters = { 'f', 'r', 'e', 'd', ' ', 's', 'm', 'i', 't', 'h' };
+
+            string name = "";
+
+            int[] a = new int[10];
+
+            for (int i = 0; i < letters.Length; i++)
+
+            {
+
+                name = name+letters[i];//in the code their is problem so i fix and i got output
+
+                a[i] = i + 1;
+
+                SendMessage(name, a[i]);
+
+            }
+
+            Console.ReadKey();
+
+            static void SendMessage(string name, int msg)
+
+            {
+
+                Console.WriteLine("Hello, " + name + "! Count to " + msg);
+
+            }
+
+        }
+
+    }
+}

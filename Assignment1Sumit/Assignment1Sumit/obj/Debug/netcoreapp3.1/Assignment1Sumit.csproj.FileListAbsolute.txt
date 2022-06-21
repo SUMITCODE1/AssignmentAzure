@@ -1,0 +1,28 @@
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.csproj.AssemblyReference.cache
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.AssemblyInfoInputs.cache
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.AssemblyInfo.cs
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.csproj.CoreCompileInputs.cache
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.exe
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.deps.json
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.runtimeconfig.json
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.runtimeconfig.dev.json
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.dll
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.pdb
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.dll
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.pdb
+C:\Users\mindc1may166\source\repos\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.genruntimeconfig.cache
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.exe
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.deps.json
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.runtimeconfig.json
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.runtimeconfig.dev.json
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.dll
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\bin\Debug\netcoreapp3.1\Assignment1Sumit.pdb
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.csproj.AssemblyReference.cache
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.AssemblyInfoInputs.cache
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.AssemblyInfo.cs
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.csproj.CoreCompileInputs.cache
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.dll
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.pdb
+C:\Users\mindc1may166\Desktop\Azure Assigment\Assignment1Sumit\Assignment1Sumit\obj\Debug\netcoreapp3.1\Assignment1Sumit.genruntimeconfig.cache

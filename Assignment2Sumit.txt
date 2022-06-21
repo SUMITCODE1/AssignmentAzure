@@ -1,0 +1,79 @@
+1.Input:-
+static void Main(string[] args)
+
+{
+
+Console.WriteLine("Enter the integer n number:");
+
+int n = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Enter the integer m number");
+
+int m = Convert.ToInt32(Console.ReadLine());
+
+int sum = 0;
+
+while(n >= m)
+
+{
+
+sum += n;
+
+n--;
+
+}
+
+Console.WriteLine($"Sum from n to me is {sum}");
+
+Console.ReadKey();
+
+}
+
+OUTPUT:-Enter the integer n number:
+100
+Enter the integer m number
+5
+Sum from n to me is 5040
+
+______________________________________________________________________________________________________________________________________
+
+2.Input:-
+
+using System;
+
+namespace Soultion
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            var age = 40;
+
+            if(age <= 35){
+
+                Console.WriteLine("You can vote and hold any place in government!");
+
+            } else if (age <= 30)
+            {
+
+                Console.WriteLine("You can vote and run for the senate !") ;
+
+            }
+            else if(age >= 18){
+
+                Console.WriteLine("You can vote!");
+
+            }else
+            {
+
+                Console.WriteLine("You have no voice in government!");
+
+            }
+
+        }
+    }
+}
+
+
+OUTPUT:-You can vote!

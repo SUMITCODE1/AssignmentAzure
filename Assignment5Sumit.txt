@@ -1,0 +1,71 @@
+Assignment5:-OUTPUT:-The animal makes a sound
+The pig says: wee wee
+The dog says: bow wow
+
+C:\Users\mindc1may166\source\repos\Soultion\Soultion\bin\Debug\netcoreapp3.1\Soultion.exe (process 15276) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+Input:-
+using System;
+
+namespace Soultion
+{
+    class Animal
+    {
+
+        public virtual void animalSound()
+        {
+
+            Console.WriteLine("The animal makes a sound");
+
+        }
+
+    }
+
+    class Pig : Animal
+    {
+
+        public override void animalSound()
+        {
+
+            Console.WriteLine("The pig says: wee wee");
+
+        }
+
+    }
+
+    class Dog : Animal
+    {
+
+        public override void animalSound()
+        {
+
+            Console.WriteLine("The dog says: bow wow");
+
+        }
+
+    }
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+
+            Animal myAnimal = new Animal(); // Create a Animal object
+
+            Animal myPig = new Pig(); // Create a Pig object
+
+            Animal myDog = new Dog(); // Create a Dog object
+
+            myAnimal.animalSound();
+
+            myPig.animalSound();
+
+            myDog.animalSound();
+
+        }
+
+    }
+}

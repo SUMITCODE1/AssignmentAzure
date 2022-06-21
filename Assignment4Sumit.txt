@@ -1,0 +1,54 @@
+Assignment4:-OUTPUT:-Ford Mustang
+
+C:\Users\mindc1may166\source\repos\Soultion\Soultion\bin\Debug\netcoreapp3.1\Soultion.exe (process 19684) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . .
+
+Input:-using System;
+
+namespace Soultion
+{
+    class Vehicle
+
+    {
+
+        public string brand = "Ford";
+
+        public void honk()
+
+        {
+
+            Console.WriteLine("Tuut, tuut!");
+
+        }
+
+    }
+
+    class Car : Vehicle
+    {
+
+        public string modelName = "Mustang";
+
+    }
+
+    class Program
+
+    {
+
+        static void Main(string[] args)
+
+        {
+
+            Car myCar = new Car();
+
+            Console.WriteLine(myCar.brand + " " + myCar.modelName);
+
+        }
+
+    }
+
+
+
+
+
+}
